@@ -1,6 +1,7 @@
-# RS-Web-Dev
+# RS Activity Web Dev Beginner 
 
-# Class 1 (HTML)
+# Class 1 - (Basic HTML)
+#
 ## What is HTML 
 
 `HTML codes tells the browser how to structure the Web page`
@@ -19,9 +20,9 @@
 
 ## Installation and Code editor
 
-`https://www.sublimetext.com/download`
+Offline --> `https://code.visualstudio.com/download`
 
-`https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello`
+Online --> `https://replit.com/`
 
 ## HTML Elements
 
@@ -43,6 +44,7 @@
 </html>
 
 ```
+## HTML Tages
 
 ### Header tags
 
@@ -74,12 +76,14 @@
 <hr />
 ```
 
-### Text formatting tag
+### Text formatting tags
 
 ```html
 <strong>I am Strong 💪</strong>
 <small>I am smol 😔</small>
-<mark>mark me</mark>
+<b>I am bold but as strong as strong 😏</b>
+<i>WTF is italic?</i>
+<u>Underline me!</u>
 <del>please, do not write off me :(</del>
 ```
 
